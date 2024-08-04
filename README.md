@@ -10,6 +10,11 @@
 
 <div>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img height="50em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/GMS.png"/>
 </div>
 
 ##
+
+<div>
+  <a href="mailto:jonasper19@gmail.com">
+</div>
