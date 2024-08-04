@@ -16,5 +16,5 @@
 ##
 
 <div>
-  <a href="mailto:jonasper19@gmail.com">
+  <a href="mailto:jonasper19@gmail.com"><img height="40em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/gmail.png"/> </a>
 </div>
