@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning game development by Game Maker Studio 2, Unreal and Unity;
+- 🌱 I’m currently learning game development by Game Maker Studio 2 and Unity;
 - 😄 Pronouns: He/Him.
 
 <div>
@@ -13,7 +13,6 @@
   <img align="center" height="50em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/GMS.png"/>
   <img align="center" height="50em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/opengl.png" />
   <img align="center" height="40em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/unity.png"/>
-  <img align="center" height="50em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/unreal.png"/>
   <img align="right" height="70" width="70" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/gatinho%20white_2.png"/>
 </div>
 
