@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, welcome to my profile 👋
 
 - 🌱 I’m currently learning game development by Game Maker Studio 2 and Unity;
 - 😄 Pronouns: He/Him.
