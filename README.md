@@ -19,6 +19,11 @@
 ##
 
 <div>
-  <a href="mailto:jonasper19@gmail.com"><img align="center" height="40em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/gmail.png"/> </a>
-  <a href="https://www.instagram.com/ojonas_rtz?igsh=MWVrZTBncGJxaDgy"><img align="center" height="70em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/instagram.png"/></a>
+ <a href="mailto:jonasper19@gmail.com" target="_blank">
+    <img align="center" height="40em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/gmail.png"/>
+</a>
+
+<a href="https://www.instagram.com/ojonas_rtz?igsh=MWVrZTBncGJxaDgy" target="_blank">
+    <img align="center" height="70em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/instagram.png"/>
+</a>
 </div>
