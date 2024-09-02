@@ -17,13 +17,7 @@
 </div>
 
 ##
-
-<div>
- <a href="mailto:jonasper19@gmail.com" target="_blank">
-    <img align="center" height="40em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/gmail.png"/>
-</a>
-
-<a href="https://www.instagram.com/ojonas_rtz/" target="_blank">
-    <img align="center" height="70em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/instagram.png"/>
-</a>
+<div align="left">
+  <a href = "mailto:jonasper19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ojonas_rtz/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
