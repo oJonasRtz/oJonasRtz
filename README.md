@@ -20,8 +20,8 @@
 <!--Profile status-->
 <br>
   <div align="center">
-    <img height="200" src="https://github-readme-streak-stats-sigma-eight.vercel.app/?user=oJonasRtz%20&theme=radical&locale=pt_BR"/>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJonasRtz&hide=Yacc&layout=compact&theme=radical"/>
+    <img height="150" src="https://github-readme-streak-stats-sigma-eight.vercel.app/?user=oJonasRtz%20&theme=radical&locale=pt_BR"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJonasRtz&hide=Yacc&layout=compact&theme=radical"/>
   </div>
 
 
