@@ -1,6 +1,7 @@
 ## Hi, welcome to my profile 👋
 
-- 🌱 I’m currently learning game development by Game Maker Studio 2 and Unity;
+- 🌱 I’m currently learning game development in Game Maker Studio 2 by myself, studying Software Engineering at Cruzeiro do Sul and 42 São Paulo.
+
 - 😄 Pronouns: He/Him.
 
 <div>
