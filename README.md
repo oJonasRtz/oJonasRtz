@@ -13,7 +13,6 @@
   <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" height="50em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/GMS.png"/>
   <img align="center" height="50em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/opengl.png" />
-  <img align="center" height="40em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/unity.png"/>
   <img align="right" height="70" width="70" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/gatinho%20white_2.png"/>
 </div>
 
