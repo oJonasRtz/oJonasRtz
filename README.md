@@ -1,22 +1,31 @@
-## Hi, welcome to my profile 👋
-
-- 🌱 I’m currently learning game development in Game Maker Studio 2 by myself, studying Software Engineering at Cruzeiro do Sul and 42 São Paulo.
-
-- 😄 Pronouns: He/Him.
-
-<div>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=oJonasRtz&show_icons=true&theme=radical"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJonasRtz&hide=Yacc&layout=compact&theme=radical"/>
+<!--Typing name-->
+<div align= "center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&random=false&width=435&lines=Hi!+i'm+Jonas+Alberto;an+aspiring+game+developer.)](https://git.io/typing-svg)
+  
 </div>
 
-<div>
-  <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" height="50em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/GMS.png"/>
-  <img align="center" height="50em" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/opengl.png" />
-  <img align="right" height="70" width="70" src="https://github.com/oJonasRtz/oJonasRtz/blob/main/Images/gatinho%20white_2.png"/>
+- 🎮An aspiring game developer;
+- 💻Studying Software Engineering at Cruzeiro do Sul and 42 São Paulo;
+
+# Languages and tools
+<div align="center">
+  <img src="https://img.shields.io/badge/-c-%23333?style=for-the-badge&color=blue&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-game%20maker-%23333?style=for-the-badge&color=dark-green&logo=gamemaker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-opengl-%23333?style=for-the-badge&color=darkblue&logo=opengl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-git-%23333?style=for-the-badge&color=orange&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-shell-%23333?style=for-the-badge&color=gray&logo=GNU%20Bash&logoColor=white"/>
 </div>
 
-##
+<!--Profile status-->
+<br>
+  <div align="center">
+    <img height="200" src="https://github-readme-streak-stats-sigma-eight.vercel.app/?user=oJonasRtz%20&theme=radical&locale=pt_BR"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJonasRtz&hide=Yacc&layout=compact&theme=radical"/>
+  </div>
+
+
+# Contact Me
 <div align="left">
   <a href = "mailto:jonasper19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&color=red&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ojonas_rtz/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23333?style=for-the-badge&color=purple&logo=instagram&logoColor=white" target="_blank"></a>
