@@ -28,7 +28,7 @@
 
 # Contact Me
 <div align="left">
-  <a href = "mailto:jonasper19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&color=red&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jonasalpereira19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&color=red&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ojonas_rtz/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23333?style=for-the-badge&color=purple&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonasalpereira/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23333?style=for-the-badge&color=blue&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
