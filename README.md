@@ -2,13 +2,13 @@
 <div align= "center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&random=false&width=435&lines=Hi!+i'm+Jonas+Alberto;an+aspiring+game+developer.)](https://git.io/typing-svg)
-  
+
 </div>
 
 - 🎮An aspiring game developer;
 - 💻Studying Software Engineering at Cruzeiro do Sul and 42 São Paulo;
 
-# Languages and tools
+ # Languages and tools <img align="left" height="100" src="https://github.com/user-attachments/assets/3fe4902f-62c8-456c-8cae-58c33ff2acb1"/>
 <div align="center">
   <img src="https://img.shields.io/badge/-c-%23333?style=for-the-badge&color=blue&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-game%20maker-%23333?style=for-the-badge&color=dark-green&logo=gamemaker&logoColor=white"/>
