@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-game%20maker-%23333?style=for-the-badge&color=dark-green&logo=gamemaker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-opengl-%23333?style=for-the-badge&color=darkblue&logo=opengl&logoColor=white"/>
   <img src="https://img.shields.io/badge/-git-%23333?style=for-the-badge&color=orange&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-shell-%23333?style=for-the-badge&color=gray&logo=GNU%20Bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-bash-%23333?style=for-the-badge&color=gray&logo=GNU%20Bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/-aseprite-%23333?style=for-the-badge&color=red&logo=aseprite&logoColor=white">
 </div>
 
