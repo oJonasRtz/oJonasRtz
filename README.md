@@ -22,8 +22,8 @@
 <!--Profile status-->
 <br>
   <div align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJonasRtz&hide=Yacc&layout=compact&theme=radical"/>
-  </div>
+   <img src="https://github-readme-stats.vercel.app/api?username=oJonasRtz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oJonasRtz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  /></div>
 
 
 # Contact Me
