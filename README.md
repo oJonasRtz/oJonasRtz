@@ -5,8 +5,8 @@
 
 </div>
 
-- 🎮An aspiring game developer;
-- 💻Studying Software Engineering at 42 São Paulo;
+- 🎮Game developer;
+- 💻Software Engineer at 42 São Paulo;
 
  # Languages and tools <img align="left" height="100" src="https://github.com/user-attachments/assets/3fe4902f-62c8-456c-8cae-58c33ff2acb1"/>
 <div align="center">
