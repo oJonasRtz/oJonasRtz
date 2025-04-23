@@ -1,7 +1,7 @@
 <!--Typing name-->
 <div align= "center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&random=false&width=435&lines=Hi!+i'm+Jonas+Alberto;a+game+developer+and+software+engineer.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&random=false&width=435&lines=Hi!+i'm+Jonas+Alberto;game+developer+and+software+engineer.)](https://git.io/typing-svg)
 
 </div>
 
