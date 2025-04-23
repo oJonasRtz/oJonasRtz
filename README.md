@@ -11,7 +11,7 @@
  # Languages and tools <img align="left" height="100" src="https://github.com/user-attachments/assets/3fe4902f-62c8-456c-8cae-58c33ff2acb1"/>
 <div align="center">
   <img src="https://img.shields.io/badge/-c-%23333?style=for-the-badge&color=blue&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-game%20maker-%23333?style=for-the-badge&color=dark-green&logo=gamemaker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-gml-%23333?style=for-the-badge&color=dark-green&logo=gamemaker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-opengl-%23333?style=for-the-badge&color=darkblue&logo=opengl&logoColor=white"/>
   <img src="https://img.shields.io/badge/-c++-%23333?style=for-the-badge&color=purple&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-git-%23333?style=for-the-badge&color=orange&logo=git&logoColor=white"/>
