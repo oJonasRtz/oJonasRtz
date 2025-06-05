@@ -6,15 +6,19 @@
 </div>
 
 - 🎮Game developer;
-- 💻Software Engineer at 42 São Paulo;
+- 💻Software Engineer;
+- Back-end dev;
 
- # Languages and tools <img align="left" height="100" src="https://github.com/user-attachments/assets/3fe4902f-62c8-456c-8cae-58c33ff2acb1"/>
+ # Technologies <img align="left" height="100" src="https://github.com/user-attachments/assets/3fe4902f-62c8-456c-8cae-58c33ff2acb1"/>
 <div align="center">
   <img src="https://img.shields.io/badge/-c-%23333?style=for-the-badge&color=blue&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-c++-%23333?style=for-the-badge&color=purple&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-unity-%23333?style=for-the-badge&color=darkblue&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/-gml-%23333?style=for-the-badge&color=dark-green&logo=gamemaker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-opengl-%23333?style=for-the-badge&color=darkblue&logo=opengl&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-c++-%23333?style=for-the-badge&color=purple&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-git-%23333?style=for-the-badge&color=orange&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-linux-%23333?style=for-the-badge&color=grey&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/-bash-%23333?style=for-the-badge&color=gray&logo=GNU%20Bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/-aseprite-%23333?style=for-the-badge&color=red&logo=aseprite&logoColor=white">
 </div>
