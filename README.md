@@ -1,15 +1,19 @@
+<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF007F&section=top">
+
 <!--Typing name-->
 <div align= "center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&random=false&width=435&lines=Hi!+i'm+Jonas+Alberto;game+developer+and+software+engineer.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&random=false&width=435&lines=Hi!+i'm+Jonas+Alberto;software+engineer+and+game+dev.)](https://git.io/typing-svg)
 
 </div>
 
-- 🎮Game developer;
-- 💻Software Engineer;
-- Back-end dev;
+<p align="center">
+  <b>🎮 Game Developer</b><br>
+  <b>💻 Software Engineer</b><br>
+  <b>🛠 Back-end Developer</b>
+</p>
 
- # Technologies <img align="left" height="100" src="https://github.com/user-attachments/assets/3fe4902f-62c8-456c-8cae-58c33ff2acb1"/>
+ # Technologies
 <div align="center">
   <img src="https://img.shields.io/badge/-c-%23333?style=for-the-badge&color=blue&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-c++-%23333?style=for-the-badge&color=purple&logo=c&logoColor=white"/>
@@ -26,9 +30,10 @@
 <!--Profile status-->
 <br>
   <div align="center">
+    <img height="150" src="https://github.com/user-attachments/assets/3fe4902f-62c8-456c-8cae-58c33ff2acb1"/>
    <img src="https://github-readme-stats.vercel.app/api?username=oJonasRtz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oJonasRtz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  /></div>
-
+  
 
 # Contact Me
 <div align="left">
@@ -36,3 +41,4 @@
   <a href="https://www.linkedin.com/in/jonasalpereira/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23333?style=for-the-badge&color=blue&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://profile.intra.42.fr/users/jopereir"><img src="https://img.shields.io/badge/-%C3%A9cole%2042-%23000000?style=for-the-badge&color=grey&logo=42&logoColor"/></a>
 </div>
+<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF007F&section=footer">
