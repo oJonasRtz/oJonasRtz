@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/-Back--end%20Development-%23333?style=for-the-badge&color=darkgreen&logo=dotnet&logoColor=white"/>
 </p>
 
+<!-- Tech-->
 <h3 align="center">⚙️ Technologies</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/-c-%23333?style=for-the-badge&color=blue&logo=c&logoColor=white"/>
@@ -36,11 +37,12 @@
    <img src="https://github-readme-stats.vercel.app/api?username=oJonasRtz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oJonasRtz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  /></div>
   
-
+<!--Contact-->
 <h3 align="center">🗨️ Contact Me</h3>
 <div align="center">
   <a href = "mailto:jonasper19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&color=red&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonasalpereira/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23333?style=for-the-badge&color=blue&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://profile.intra.42.fr/users/jopereir"><img src="https://img.shields.io/badge/-%C3%A9cole%2042-%23000000?style=for-the-badge&color=grey&logo=42&logoColor"/></a>
 </div>
+
 <img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF007F&section=footer">
