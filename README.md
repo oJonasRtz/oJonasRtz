@@ -42,7 +42,7 @@
 <div align="center">
   <a href = "mailto:jonasper19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&color=red&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonasalpereira/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23333?style=for-the-badge&color=blue&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://profile.intra.42.fr/users/jopereir"><img src="https://img.shields.io/badge/-%C3%A9cole%2042-%23000000?style=for-the-badge&color=grey&logo=42&logoColor"/></a>
+  <a href="https://profile.intra.42.fr/users/jopereir"><img src="https://img.shields.io/badge/-Ecole%2042-333?style=for-the-badge&logo=42&logoColor=white"/></a>
 </div>
 
 <img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF007F&section=footer">
