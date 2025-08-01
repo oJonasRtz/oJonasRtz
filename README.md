@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/-bash-%23333?style=for-the-badge&color=gray&logo=GNU%20Bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/-aseprite-%23333?style=for-the-badge&color=red&logo=aseprite&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-%23333?style=for-the-badge&color=white&logo=docker&logoColor=white," />
+  <img src="https://img.shields.io/badge/-MySQL-%23333?style=for-the-badge&color=orange&logo=mysql&logoColor=white" />
 </div>
 
 <!--Profile status-->
