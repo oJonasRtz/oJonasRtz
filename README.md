@@ -10,10 +10,10 @@
 <!-- Interests -->
 <h3 align="center">🧠 My Main Interests</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Game%20Development-%23333?style=for-the-badge&color=purple&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Software%20Engineering-%23333?style=for-the-badge&color=orange&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Back--end%20Web%20Development-%23333?style=for-the-badge&color=darkgreen&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Full--stack%20Web%20Development-%23333?style=for-the-badge&color=red&logo=stackoverflow&logoColor=white" />
+  <a href="https://roadmap.sh/game-developer"><img src="https://img.shields.io/badge/-Game%20Development-%23333?style=for-the-badge&color=purple&logo=unrealengine&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/-Software%20Engineering-%23333?style=for-the-badge&color=orange&logo=git&logoColor=white"/></a>
+  <a href="https://roadmap.sh/backend"><img src="https://img.shields.io/badge/-Back--end%20Web%20Development-%23333?style=for-the-badge&color=darkgreen&logo=dotnet&logoColor=white"/></a>
+   <a href="https://roadmap.sh/full-stack"><img src="https://img.shields.io/badge/-Full--stack%20Web%20Development-%23333?style=for-the-badge&color=red&logo=stackoverflow&logoColor=white" /></a>
 </p>
 
 <!-- Tech-->
