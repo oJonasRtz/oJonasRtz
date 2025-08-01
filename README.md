@@ -12,7 +12,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Game%20Development-%23333?style=for-the-badge&color=purple&logo=unrealengine&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Software%20Engineering-%23333?style=for-the-badge&color=orange&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Back--end%20Development-%23333?style=for-the-badge&color=darkgreen&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Back--end%20Web%20Development-%23333?style=for-the-badge&color=darkgreen&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Full--stack%20Web%20Development-%23333?style=for-the-badge&color=red&logo=stackoverflow&logoColor=white" />
 </p>
 
 <!-- Tech-->
@@ -21,13 +22,18 @@
   <img src="https://img.shields.io/badge/-c-%23333?style=for-the-badge&color=blue&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-c++-%23333?style=for-the-badge&color=purple&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c&logoColor=white"/>
+   <img src="https://img.shields.io/badge/-Typescript-%23333?style=for-the-badge&color=blue&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-%23333?style=for-the-badge&color=yellow&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-%23333?style=for-the-badge&color=blue&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nodejs-%23333?style=for-the-badge&color=darkgreen&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-unity-%23333?style=for-the-badge&color=darkblue&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/-gml-%23333?style=for-the-badge&color=dark-green&logo=gamemaker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-opengl-%23333?style=for-the-badge&color=darkblue&logo=opengl&logoColor=white"/>
   <img src="https://img.shields.io/badge/-git-%23333?style=for-the-badge&color=orange&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-linux-%23333?style=for-the-badge&color=grey&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/-bash-%23333?style=for-the-badge&color=gray&logo=GNU%20Bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-aseprite-%23333?style=for-the-badge&color=red&logo=aseprite&logoColor=white">
+  <img src="https://img.shields.io/badge/-aseprite-%23333?style=for-the-badge&color=red&logo=aseprite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-%23333?style=for-the-badge&color=white&logo=docker&logoColor=white," />
 </div>
 
 <!--Profile status-->
