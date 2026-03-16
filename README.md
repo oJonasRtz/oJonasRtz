@@ -76,7 +76,7 @@
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/ft_irc-IRC%20server-purple?style=for-the-badge">
-        <a href="https://github.com/oJonasRtz/ft_irc">
+        <a href="https://github.com/fernandoruanb/FT_IRC">
           <img src="https://placehold.co/600x350/png" width="100%"/>
         </a>
         An IRC server designed to work with clients such as irssi.
