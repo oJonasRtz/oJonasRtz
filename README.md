@@ -48,7 +48,7 @@
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/cub3d-3D%20Raycaster-purple?style=for-the-badge" />
         <a href="https://github.com/oJonasRtz/cube3d" >
-          <img src="https://placehold.co/600x350/png" width="100%"/>
+          <img src="assets/video/cub3d_demo.gif" width="100%"/>
         </a>
         Raycasting 3D engine inspired by early FPS games.
       </td>
@@ -77,7 +77,7 @@
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/ft_irc-IRC%20server-purple?style=for-the-badge">
         <a href="https://github.com/fernandoruanb/FT_IRC">
-          <img src="https://placehold.co/600x350/png" width="100%"/>
+          <img src="assets/video/irc_demo.gif" width="100%"/>
         </a>
         An IRC server designed to work with clients such as irssi.
       </td>
