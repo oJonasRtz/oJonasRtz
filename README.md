@@ -56,7 +56,7 @@
         <img src="https://img.shields.io/badge/Minishell-Unix%20shell-purple?style=for-the-badge" />
         <a href="https://github.com/oJonasRtz/minishell">
           <!-- <img src="https://placehold.co/600x350/png" width="100%"/> -->
-          <video src="assets/video/minishell_demo.webm" width="100%"></video>
+          <img src="assets/video/minishell_demo.gif" width="100%"/>
         </a>
         Unix shell implementation with parsing, AST and process execution.
       </td>
