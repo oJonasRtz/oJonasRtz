@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/-Docker-%23333?style=for-the-badge&color=white&logo=docker&logoColor=white," />
   <img src="https://img.shields.io/badge/-json-%23333?style=for-the-badge&color=red&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-%23333?style=for-the-badge&color=orange&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-%23333?style=for-the-badge&color=blue&logo=python&logoColor=white" />
 </div>
 
 <!-- Projects Showcase -->
