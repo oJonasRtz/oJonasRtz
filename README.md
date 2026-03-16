@@ -72,7 +72,7 @@
           <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white">
         </a>
         <br>
-        Full-stack web platform with multiplayer game and authentication.
+        Full-stack web platform where you can play games and socialize.
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/ft_irc-IRC%20server-purple?style=for-the-badge">
