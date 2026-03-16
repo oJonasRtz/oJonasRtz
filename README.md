@@ -65,7 +65,7 @@
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/Transcendence-Web%20game%20plataform-purple?style=for-the-badge">
         <a href="https://github.com/oJonasRtz/transcendence" />
-          <img src="assets/images/transcendence" width="100%"/>
+          <img src="assets/video/transcendence_demo.gif" width="100%"/>
         </a>
         <br>
         <a href="https://transcendence42.xyz/">
