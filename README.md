@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/-MySQL-%23333?style=for-the-badge&color=orange&logo=mysql&logoColor=white" />
 </div>
 
-<!-- Projects -->
+<!-- Projects Showcase -->
 <h3 align="center">🚀 Featured Projects</h3>
 
 <div align="center">
@@ -46,34 +46,40 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        cub3d
-        <a href="https://github.com/oJonasRtz/cube3d">
+        <img src="https://img.shields.io/badge/cub3d-3D%20Raycaster-purple?style=for-the-badge" />
+        <a href="https://github.com/oJonasRtz/cube3d" >
           <img src="https://placehold.co/600x350/png" width="100%"/>
         </a>
         Raycasting 3D engine inspired by early FPS games.
       </td>
       <td align="center" width="33%">
-        minishell
+        <img src="https://img.shields.io/badge/Minishell-Unix%20shell-purple?style=for-the-badge" />
         <a href="https://github.com/oJonasRtz/minishell">
-          <img src="https://placehold.co/600x350/png" width="100%"/>
+          <!-- <img src="https://placehold.co/600x350/png" width="100%"/> -->
+          <video src="assets/video/minishell_demo.webm" width="100%"></video>
         </a>
         Unix shell implementation with parsing, AST and process execution.
       </td>
       </tr>
       <tr>
       <td align="center" width="50%">
-        ft_transcendence
-        <a href="https://github.com/oJonasRtz/transcendence">
-          <img src="https://placehold.co/600x350/png" width="100%"/>
+        <img src="https://img.shields.io/badge/Transcendence-Web%20game%20plataform-purple?style=for-the-badge">
+        <a href="https://github.com/oJonasRtz/transcendence" />
+          <img src="assets/images/transcendence" width="100%"/>
         </a>
+        <br>
+        <a href="https://transcendence42.xyz/">
+          <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white">
+        </a>
+        <br>
         Full-stack web platform with multiplayer game and authentication.
       </td>
       <td align="center" width="50%">
-        ft_irc
+        <img src="https://img.shields.io/badge/ft_irc-IRC%20server-purple?style=for-the-badge">
         <a href="https://github.com/oJonasRtz/ft_irc">
           <img src="https://placehold.co/600x350/png" width="100%"/>
         </a>
-        IRC server implementation following the IRC protocol.
+        An IRC server designed to work with clients such as irssi.
       </td>
     </tr>
   </table>
@@ -93,7 +99,7 @@
   <a href = "mailto:jonasper19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&color=red&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonasalpereira/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23333?style=for-the-badge&color=blue&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://profile.intra.42.fr/users/jopereir"><img src="https://img.shields.io/badge/-Ecole%2042-333?style=for-the-badge&logo=42&logoColor=white"/></a>
-  <a href="https://linktr.ee/oJonasRtz"><img src="https://img.shields.io/badge/-Linktree-2E7D32?style=for-the-badge&logo=Linktree&logoColor=white" /></a>
+
 </div>
 
 <img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF007F&section=footer">
