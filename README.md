@@ -38,6 +38,48 @@
   <img src="https://img.shields.io/badge/-MySQL-%23333?style=for-the-badge&color=orange&logo=mysql&logoColor=white" />
 </div>
 
+<!-- Projects -->
+<h3 align="center">🚀 Featured Projects</h3>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        cub3d
+        <a href="https://github.com/oJonasRtz/cube3d">
+          <img src="https://placehold.co/600x350/png" width="100%"/>
+        </a>
+        Raycasting 3D engine inspired by early FPS games.
+      </td>
+      <td align="center" width="33%">
+        minishell
+        <a href="https://github.com/oJonasRtz/minishell">
+          <img src="https://placehold.co/600x350/png" width="100%"/>
+        </a>
+        Unix shell implementation with parsing, AST and process execution.
+      </td>
+      </tr>
+      <tr>
+      <td align="center" width="50%">
+        ft_transcendence
+        <a href="https://github.com/oJonasRtz/transcendence">
+          <img src="https://placehold.co/600x350/png" width="100%"/>
+        </a>
+        Full-stack web platform with multiplayer game and authentication.
+      </td>
+      <td align="center" width="50%">
+        ft_irc
+        <a href="https://github.com/oJonasRtz/ft_irc">
+          <img src="https://placehold.co/600x350/png" width="100%"/>
+        </a>
+        IRC server implementation following the IRC protocol.
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 <!--Profile status-->
 <br>
   <div align="center">
