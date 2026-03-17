@@ -89,6 +89,7 @@
 
 <!--Profile status-->
 <br>
+  <h3 align="center">📊 Profile Status </h3>
   <div align="center">
     <img height="150" src="https://github.com/user-attachments/assets/3fe4902f-62c8-456c-8cae-58c33ff2acb1"/>
    <img src="https://github-readme-stats.vercel.app/api?username=oJonasRtz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
