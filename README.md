@@ -2,8 +2,10 @@
 
 <!--Typing name-->
 <div align= "center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&random=false&width=435&lines=Hi!+i'm+Jonas+Alberto;a+software+engineer+and+game+dev.)](https://git.io/typing-svg)
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/common_coree.png" style="height:100px; vertical-align:middle; margin-right:10px;"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&random=false&width=435&lines=Hi!+i'm+Jonas+Alberto;a+software+engineer+and+game+dev." alt="Typing SVG" style="vertical-align:middle;"/>
+  </a>
 
 </div>
 
@@ -46,40 +48,53 @@
 
   <table>
     <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/cub3d-3D%20Raycaster-purple?style=for-the-badge" />
+      <td align="center" valign="top" width="50%">
+        <div style="height: 110px;">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" style="height: 56px; object-fit: contain;"/>
+          <img src="https://img.shields.io/badge/cub3d-3D%20Raycaster-purple?style=for-the-badge"/>
+        </div>
         <a href="https://github.com/oJonasRtz/cube3d" >
-          <img src="assets/video/cub3d_demo.gif" width="100%"/>
+          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/cub3d_demo.gif" style="width:100%; height:200px; object-fit: cover;"/>
         </a>
+        <br>
         Raycasting 3D engine inspired by early FPS games.
       </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Minishell-Unix%20shell-purple?style=for-the-badge" />
+      <td align="center" valign="top" width="50%">
+        <div style="height: 110px;">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png" style="height: 56px; object-fit: contain;"/>
+          <img src="https://img.shields.io/badge/Minishell-Unix%20shell-purple?style=for-the-badge" />
+        </div>
         <a href="https://github.com/oJonasRtz/minishell">
-          <!-- <img src="https://placehold.co/600x350/png" width="100%"/> -->
-          <img src="assets/video/minishell_demo.gif" width="100%"/>
+          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/minishell_demo.gif" style="width:100%; height:200px; object-fit: cover;"/>
         </a>
+        <br>
         Unix shell implementation with parsing, AST and process execution.
       </td>
       </tr>
       <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/Transcendence-Web%20game%20plataform-purple?style=for-the-badge">
-        <a href="https://github.com/oJonasRtz/transcendence" />
-          <img src="assets/video/transcendence_demo.gif" width="100%"/>
+      <td align="center" valign="top" width="50%">
+        <div style="height: 110px;">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencee.png" style="height: 56px; object-fit: contain;"/>
+          <img src="https://img.shields.io/badge/Transcendence-Web%20game%20plataform-purple?style=for-the-badge">
+        </div>
+        <a href="https://github.com/oJonasRtz/transcendence">
+          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/transcendence_demo.gif" style="width:100%; height:200px; object-fit: cover;"/>
         </a>
-        <br>
         <a href="https://transcendence42.xyz/">
           <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white">
         </a>
         <br>
         Full-stack web platform where you can play games and socialize.
       </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/ft_irc-IRC%20server-purple?style=for-the-badge">
+      <td align="center" valign="top" width="50%">
+        <div style="height: 110px;">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_irce.png" style="height: 56px; object-fit: contain;"/>
+          <img src="https://img.shields.io/badge/ft_irc-IRC%20server-purple?style=for-the-badge">
+        </div>
         <a href="https://github.com/fernandoruanb/FT_IRC">
-          <img src="assets/video/irc_demo.gif" width="100%"/>
+          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/irc_demo.gif" style="width:100%; height:200px; object-fit: cover;"/>
         </a>
+        <br>
         An IRC server designed to work with clients such as irssi.
       </td>
     </tr>
