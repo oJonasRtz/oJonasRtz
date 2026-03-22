@@ -117,6 +117,7 @@
         <img src="https://img.shields.io/badge/Docker-333?style=flat-square&logo=docker"/>
         <img src="https://img.shields.io/badge/WebSockets-333?style=flat-square"/>
         <br><br>
+        <p><b>Full-Stack Web Platform</b></p>
         <div align="center" style="display:inline-block; text-align:left;">
           • real-time web platform<br>
           • backend + frontend integration<br>
@@ -138,6 +139,7 @@
         <img src="https://img.shields.io/badge/State%20Machine-333?style=flat-square"/>
         <img src="https://img.shields.io/badge/2D%20Game-333?style=flat-square"/>
         <br><br>
+        <p><b>2D Game Development Project</b></p>
         <div align="center" style="display:inline-block; text-align:left;">
           • state machine architecture (create/execute/destroy)<br>
           • NPC behavior + interaction system<br>
@@ -160,6 +162,7 @@
         <img src="https://img.shields.io/badge/Rendering-333?style=flat-square"/>
         <img src="https://img.shields.io/badge/Math-333?style=flat-square"/>
         <br><br>
+        <p><b>Raycasting Engine (Wolfenstein-style)</b></p>
         <div align="center" style="display:inline-block; text-align:left;">
           • raycasting engine (DDA)<br>
           • texture mapping + perspective<br>
@@ -181,6 +184,7 @@
         <img src="https://img.shields.io/badge/Processes-333?style=flat-square"/>
         <img src="https://img.shields.io/badge/Signals-333?style=flat-square"/>
         <br><br>
+        <p><b>Unix Shell (Bash-like)</b></p>
         <div align="center" style="display:inline-block; text-align:left;">
           • AST parser (lexer + parsing)<br>
           • fork/exec + pipes + redirections<br>
@@ -201,6 +205,7 @@
         <img src="https://img.shields.io/badge/Sockets-333?style=flat-square"/>
         <img src="https://img.shields.io/badge/Networking-333?style=flat-square"/>
         <br><br>
+        <p><b>IRC Chat Server</b></p>
         <div align="center" style="display:inline-block; text-align:left;">
           • TCP server (IRC protocol)<br>
           • non-blocking I/O (multi-client)<br>
