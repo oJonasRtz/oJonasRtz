@@ -92,90 +92,87 @@
 <h3 align="center">🚀 Featured Projects</h3>
 <div align="center">
   <table width="100%">
+    <!-- Minishell -->
     <tr>
-      <td align="center" width="50%">
-      <a href="https://github.com/oJonasRtz/minishell">
-        <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/minishell_demo.gif" style="width:100%; height:160px; object-fit: cover;"/>
-      </a><br>
-      <h2 style="margin:6px 0;">Minishell</h2>
-      <img src="https://img.shields.io/badge/C-333?style=flat-square&logo=c"/>
-      <img src="https://img.shields.io/badge/AST-333?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Processes-333?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Signals-333?style=flat-square"/>
-      <br><br>
-      <table>
-        <tr>
-          <td align="left">
-            • AST-based parsing (lexer + parser)<br>
-            • Process execution with pipes and redirections<br>
-            • Signal handling and environment management<br>
-          </td>
-        </tr>
-      </table>
+      <td align="center">
+        <a href="https://github.com/oJonasRtz/minishell">
+          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/minishell_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
+        </a>
+        <h2 style="margin:8px 0;">Minishell</h2>
+        <img src="https://img.shields.io/badge/C-333?style=flat-square&logo=c"/>
+        <img src="https://img.shields.io/badge/AST-333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Processes-333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Signals-333?style=flat-square"/>
+        <br><br>
+        <div align="left" style="display:inline-block; text-align:left;">
+          • AST parser (lexer + parsing)<br>
+          • fork/exec + pipes + redirections<br>
+          • signal handling (SIGINT, SIGQUIT)
+        </div>
+        <br><br>
       </td>
-      <td align="center" width="50%">
+    </tr>
+    <!-- IRC -->
+    <tr>
+      <td align="center">
         <a href="https://github.com/fernandoruanb/FT_IRC">
-          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/irc_demo.gif" style="width:100%; height:160px; object-fit: cover;"/>
-        </a><br>
-        <h2 style="margin:6px 0;">Ft_Irc</h2>
+          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/irc_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
+        </a>
+        <h2 style="margin:8px 0;">FT_IRC</h2>
         <img src="https://img.shields.io/badge/C++-333?style=flat-square&logo=c%2B%2B"/>
         <img src="https://img.shields.io/badge/Sockets-333?style=flat-square"/>
         <img src="https://img.shields.io/badge/Networking-333?style=flat-square"/>
         <br><br>
-        <table>
-          <tr>
-            <td align="left">
-              • Multi-client handling (non-blocking I/O)<br>
-              • Channels, messaging and command parsing<br>
-              • Compatible with real clients (irssi)<br>
-            </td>
-          </tr>
-        </table>
+        <div align="left" style="display:inline-block; text-align:left;">
+          • TCP server (IRC protocol)<br>
+          • non-blocking I/O (multi-client)<br>
+          • channels, messaging, command parsing
+        </div>
+        <br><br>
       </td>
     </tr>
+    <!-- Cub3D -->
     <tr>
-      <td align="center" width="50%">
+      <td align="center">
         <a href="https://github.com/oJonasRtz/cube3d">
-          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/cub3d_demo.gif" style="width:100%; height:160px; object-fit: cover;"/>
-        </a><br>
-        <h2 style="margin:6px 0;">Cub3D</h2>
+          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/cub3d_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
+        </a>
+        <h2 style="margin:8px 0;">Cub3D</h2>
         <img src="https://img.shields.io/badge/C-333?style=flat-square&logo=c"/>
         <img src="https://img.shields.io/badge/MiniLibX-333?style=flat-square"/>
         <img src="https://img.shields.io/badge/Rendering-333?style=flat-square"/>
         <img src="https://img.shields.io/badge/Math-333?style=flat-square"/>
         <br><br>
-        <table>
-          <tr>
-            <td align="left">
-              • DDA-based rendering<br>
-              • Texture mapping + perspective correction<br>
-              • Custom camera and input system<br>
-            </td>
-          </tr>
-        </table>
+        <div align="left" style="display:inline-block; text-align:left;">
+          • raycasting engine (DDA)<br>
+          • texture mapping + perspective<br>
+          • custom camera & input system
+        </div>
+        <br><br>
       </td>
-      <td align="center" width="50%">
+    </tr>
+    <!-- Transcendence -->
+    <tr>
+      <td align="center">
         <a href="https://github.com/oJonasRtz/transcendence">
-          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/transcendence_demo.gif" style="width:100%; height:160px; object-fit: cover;"/>
-        </a><br>
-        <h2 style="margin:6px 0;">Transcendence</h2>
+          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/transcendence_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
+        </a>
+        <h2 style="margin:8px 0;">Transcendence</h2>
         <img src="https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript"/>
         <img src="https://img.shields.io/badge/Node.js-333?style=flat-square&logo=node.js"/>
         <img src="https://img.shields.io/badge/SQLite-333?style=flat-square"/>
         <img src="https://img.shields.io/badge/Docker-333?style=flat-square&logo=docker"/>
         <img src="https://img.shields.io/badge/WebSockets-333?style=flat-square"/>
         <br><br>
-        <table>
-          <tr>
-            <td align="left">
-              • Game platform with social features<br>
-              • Backend + frontend integration<br>
-              • Real-time interactions (WebSockets)<br>
-            </td>
-          </tr>
-        </table>
+        <div align="left" style="display:inline-block; text-align:left;">
+          • real-time web platform<br>
+          • backend + frontend integration<br>
+          • WebSocket-based interactions
+        </div>
+        <br><br>
       </td>
     </tr>
+
   </table>
 </div>
 
