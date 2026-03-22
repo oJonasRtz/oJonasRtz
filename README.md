@@ -9,7 +9,7 @@
 <!-- About -->
 <table align="center" width="100%">
   <tr>
-    <td align="center" valign="top" width="35%">
+    <td align="center" valign="middle" width="35%">
       <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/common_coree.png" width="140"/>
       <p align="center">
         <sub>Badge designed by <a href="https://github.com/lrcouto">lrcouto</a></sub>
