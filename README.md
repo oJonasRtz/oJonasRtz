@@ -23,7 +23,7 @@
         I build systems from scratch — shells, network servers, and rendering engines — focusing on performance, concurrency, and clean architecture.
       </p>
       <p>
-        Currently seeking opportunities in <b>backend / fullstack development</b>, while continuing long-term work in <b>game development and engine programming</b>.
+        Seeking for <b>backend / fullstack web</b> and <b>game development</b> roles, focused on <b>real-time, performance and low-level systems</b>.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge"/>
