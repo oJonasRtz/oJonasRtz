@@ -2,7 +2,7 @@
 
 <header align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&width=600&lines=Jonas+Alberto;Backend+%7C+Systems+Engineer;Game+Dev+%7C+Low-level+Programming" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&width=600&lines=Hi+I'm+Jonas+Alberto;Backend+%7C+Systems+Engineer;Game+Dev+%7C+Low-level+Programming" />
   </a>
 </header>
 
