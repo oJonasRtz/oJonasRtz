@@ -125,28 +125,7 @@
         <br><br>
       </td>
     </tr>
-    <!-- Minishell -->
-    <tr>
-      <td align="center">
-        <h2 style="margin:8px 0;">Minishell</h2>
-        <a href="https://github.com/oJonasRtz/minishell">
-          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/minishell_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/C-333?style=flat-square&logo=c"/>
-        <img src="https://img.shields.io/badge/AST-333?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Processes-333?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Signals-333?style=flat-square"/>
-        <br><br>
-        <div align="center" style="display:inline-block; text-align:left;">
-          • AST parser (lexer + parsing)<br>
-          • fork/exec + pipes + redirections<br>
-          • signal handling (SIGINT, SIGQUIT)
-        </div>
-        <br><br>
-      </td>
-    </tr>
-     <!-- OsiCat -->
+    <!-- OsiCat -->
     <tr>
       <td align="center">
         <h2 style="margin:8px 0;">OsiCat</h2>
@@ -168,26 +147,6 @@
         <br><br>
       </td>
     </tr>
-    <!-- IRC -->
-    <tr>
-      <td align="center">
-        <h2 style="margin:8px 0;">FT_IRC</h2>
-        <a href="https://github.com/fernandoruanb/FT_IRC">
-          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/irc_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/C++-333?style=flat-square&logo=c%2B%2B"/>
-        <img src="https://img.shields.io/badge/Sockets-333?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Networking-333?style=flat-square"/>
-        <br><br>
-        <div align="center" style="display:inline-block; text-align:left;">
-          • TCP server (IRC protocol)<br>
-          • non-blocking I/O (multi-client)<br>
-          • channels, messaging, command parsing
-        </div>
-        <br><br>
-      </td>
-    </tr>
     <!-- Cub3D -->
     <tr>
       <td align="center">
@@ -205,6 +164,47 @@
           • raycasting engine (DDA)<br>
           • texture mapping + perspective<br>
           • custom camera & input system
+        </div>
+        <br><br>
+      </td>
+    </tr>
+    <!-- Minishell -->
+    <tr>
+      <td align="center">
+        <h2 style="margin:8px 0;">Minishell</h2>
+        <a href="https://github.com/oJonasRtz/minishell">
+          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/minishell_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/C-333?style=flat-square&logo=c"/>
+        <img src="https://img.shields.io/badge/AST-333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Processes-333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Signals-333?style=flat-square"/>
+        <br><br>
+        <div align="center" style="display:inline-block; text-align:left;">
+          • AST parser (lexer + parsing)<br>
+          • fork/exec + pipes + redirections<br>
+          • signal handling (SIGINT, SIGQUIT)
+        </div>
+        <br><br>
+      </td>
+    </tr>
+    <!-- IRC -->
+    <tr>
+      <td align="center">
+        <h2 style="margin:8px 0;">FT_IRC</h2>
+        <a href="https://github.com/fernandoruanb/FT_IRC">
+          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/irc_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/C++-333?style=flat-square&logo=c%2B%2B"/>
+        <img src="https://img.shields.io/badge/Sockets-333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Networking-333?style=flat-square"/>
+        <br><br>
+        <div align="center" style="display:inline-block; text-align:left;">
+          • TCP server (IRC protocol)<br>
+          • non-blocking I/O (multi-client)<br>
+          • channels, messaging, command parsing
         </div>
         <br><br>
       </td>
