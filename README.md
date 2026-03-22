@@ -99,6 +99,7 @@
         <a href="https://github.com/oJonasRtz/transcendence">
           <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/transcendence_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
         </a>
+        <br>
         <img src="https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript"/>
         <img src="https://img.shields.io/badge/Node.js-333?style=flat-square&logo=node.js"/>
         <img src="https://img.shields.io/badge/SQLite-333?style=flat-square"/>
@@ -120,6 +121,7 @@
         <a href="https://github.com/oJonasRtz/minishell">
           <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/minishell_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
         </a>
+        <br>
         <img src="https://img.shields.io/badge/C-333?style=flat-square&logo=c"/>
         <img src="https://img.shields.io/badge/AST-333?style=flat-square"/>
         <img src="https://img.shields.io/badge/Processes-333?style=flat-square"/>
@@ -133,6 +135,28 @@
         <br><br>
       </td>
     </tr>
+     <!-- OsiCat -->
+    <tr>
+      <td align="center">
+        <h2 style="margin:8px 0;">OsiCat</h2>
+        <a href="https://github.com/oJonasRtz/osicat">
+          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/osicat_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/GML-333?style=flat-square&logo=gamemaker"/>
+        <img src="https://img.shields.io/badge/GameMaker-333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/State%20Machine-333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/2D%20Game-333?style=flat-square"/>
+        <br><br>
+        <div align="left" style="display:inline-block; text-align:left;">
+          • state machine architecture (create/execute/destroy)<br>
+          • NPC behavior + interaction system<br>
+          • chat/dialogue system (progressive rendering)<br>
+          • movement, collision & tile-based world
+        </div>
+        <br><br>
+      </td>
+    </tr>
     <!-- IRC -->
     <tr>
       <td align="center">
@@ -140,6 +164,7 @@
         <a href="https://github.com/fernandoruanb/FT_IRC">
           <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/irc_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
         </a>
+        <br>
         <img src="https://img.shields.io/badge/C++-333?style=flat-square&logo=c%2B%2B"/>
         <img src="https://img.shields.io/badge/Sockets-333?style=flat-square"/>
         <img src="https://img.shields.io/badge/Networking-333?style=flat-square"/>
@@ -159,6 +184,7 @@
         <a href="https://github.com/oJonasRtz/cube3d">
           <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/cub3d_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
         </a>
+        <br>
         <img src="https://img.shields.io/badge/C-333?style=flat-square&logo=c"/>
         <img src="https://img.shields.io/badge/MiniLibX-333?style=flat-square"/>
         <img src="https://img.shields.io/badge/Rendering-333?style=flat-square"/>
