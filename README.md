@@ -1,174 +1,205 @@
-<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF007F&section=top">
+<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF007F&section=top"/>
 
-<!--Typing name-->
-<div align= "center">
+<header align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&random=false&width=435&lines=Hi!+i'm+Jonas+Alberto;a+software+engineer+and+game+dev." alt="Typing SVG" style="vertical-align:middle;"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&width=600&lines=Jonas+Alberto;Backend+%7C+Systems+Engineer;Game+Dev+%7C+Low-level+Programming" />
   </a>
+</header>
 
-</div>
-
-<!-- 42 Badge + About Me -->
+<!-- About -->
 <table align="center" width="100%">
   <tr>
     <td align="center" valign="top" width="35%">
-      <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/common_coree.png" alt="Common Core badge" width="150"><br>
-      <sub>Badge designed by <a href="https://github.com/lrcouto">lrcouto</a></sub>
-    </td>
+      <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/common_coree.png" width="140"/>
+      <p align="center">
+        <sub>Badge designed by <a href="https://github.com/lrcouto">lrcouto</a></sub>
+      </p>
+    </td>   
     <td align="left" valign="middle" width="65%">
       <p>
-        I am a software engineer and game developer, passionate about turning ideas into interactive experiences.<br>
-        I focus on full-stack development with focus on backend, system architecture, and game creation,<br>
-        always pursuing clean code, continuous learning, and projects with real impact.
+        Backend-focused software engineer with strong foundations in low-level systems and real-time applications.
+      </p>
+      <p>
+        I build systems from scratch — shells, network servers, and rendering engines — focusing on performance, concurrency, and clean architecture.
+      </p>
+      <p>
+        Currently seeking opportunities in <b>backend / fullstack development</b>, while continuing long-term work in <b>game development and engine programming</b>.
       </p>
       <p align="center">
-        <a href="#contact-me">
-          <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work badge"/>
-        </a>
+        <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge"/>
       </p>
     </td>
   </tr>
 </table>
 
-<!-- Interests -->
-<h3 align="center">🧠 Interests &  Technologies</h3>
+<br><br>
+<!-- Focus -->
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center" valign="top" width="50%">
-        <table width="100%">
-          <thead>
-            <tr>
-              <th>💻 Language</th>
-              <th>🎯 Focus Area</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr><td><img src="https://img.shields.io/badge/-gml-%23333?style=for-the-badge&color=dark-green&logo=gamemaker&logoColor=white"/></td><td>Game Development</td></tr>
-            <tr><td> <img src="https://img.shields.io/badge/-c-%23333?style=for-the-badge&color=blue&logo=c&logoColor=white"/></td><td>Low-level Programming</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-c++-%23333?style=for-the-badge&color=purple&logo=c&logoColor=white"/></td><td>Performace | Game development | Low-level Programming</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c&logoColor=white"/></td><td>Game and API Development</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-Typescript-%23333?style=for-the-badge&color=blue&logo=typescript&logoColor=white"/></td><td>Full-Stack Web</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-JavaScript-%23333?style=for-the-badge&color=yellow&logo=javascript&logoColor=white"/></td><td>Web Development</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-Python-%23333?style=for-the-badge&color=blue&logo=python&logoColor=white"/></td><td>Automation and Backend</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-SQL-%23333?style=for-the-badge&color=orange&logo=mysql&logoColor=white"/></td><td>Data and Persistence</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-bash-%23333?style=for-the-badge&color=gray&logo=GNU%20Bash&logoColor=white"/></td><td>Scripting and DevOps</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-json-%23333?style=for-the-badge&color=red&logo=json&logoColor=white"/></td><td>Data Interchange</td></tr>
-          </tbody>
-        </table>
+      <!-- What I Build -->
+      <td align="center" valign="top" width="33%">
+        <h3>🧠 What I Build</h3>
+        <div align="left" style="display:inline-block;">
+          <b>
+          • Backend systems (APIs, servers, real-time services)<br><br>
+          • Low-level software (C/C++, memory, processes, networking)<br><br>
+          • Game systems and rendering engines
+          </b>
+          <br>
+        </div>
       </td>
-      <td align="center" valign="top" width="50%">
-        <table width="100%">
-          <thead>
-            <tr>
-              <th>🧩 Framework</th>
-              <th>🎯 Focus Area</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr><td><img src="https://img.shields.io/badge/-Nodejs-%23333?style=for-the-badge&color=darkgreen&logo=node.js&logoColor=white"/></td><td>Full-Stack Dev</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-React-%23333?style=for-the-badge&color=blue&logo=react&logoColor=white"/></td><td>Frontend Dev</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-.NET-%23333?style=for-the-badge&color=darkgreen&logo=dotnet&logoColor=white"/></td><td>Backend Dev</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-ASP.NET-%23333?style=for-the-badge&color=512BD4&logo=dotnet&logoColor=white"/></td><td>Web APIs and Backend Dev</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-unity-%23333?style=for-the-badge&color=darkblue&logo=unity&logoColor=white"/></td><td>Game Dev</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-opengl-%23333?style=for-the-badge&color=darkblue&logo=opengl&logoColor=white"/></td><td>Shaders and Graphics</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-Docker-%23333?style=for-the-badge&color=white&logo=docker&logoColor=white,"/></td><td>DevOps and Deployment</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-MySQL-%23333?style=for-the-badge&color=orange&logo=mysql&logoColor=white"/></td><td>Database Layer</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-git-%23333?style=for-the-badge&color=orange&logo=git&logoColor=white"/></td><td>Version Control</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-linux-%23333?style=for-the-badge&color=grey&logo=linux&logoColor=white"/></td><td>Development Environment</td></tr>
-            <tr><td><img src="https://img.shields.io/badge/-aseprite-%23333?style=for-the-badge&color=red&logo=aseprite&logoColor=white"/></td><td>Game Art Pipeline</td></tr>
-          </tbody>
-        </table>
+      <!-- Core Stack -->
+      <td align="center" valign="top" width="33%">
+        <h3>⚙️ Core Stack</h3>
+        <div>
+          <img src="https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white"/>
+          <img src="https://img.shields.io/badge/C++-333?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript&logoColor=white"/>
+          <br>
+          <img src="https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-333?style=for-the-badge&logo=react&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Next.js-333?style=for-the-badge&logo=next.js&logoColor=white"/>
+          <br>
+          <img src="https://img.shields.io/badge/SQLite-333?style=for-the-badge&logo=sqlite&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux&logoColor=white"/>
+          <br>
+          <img src="https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git&logoColor=white"/>
+          <img src="https://img.shields.io/badge/GML-333?style=for-the-badge&logo=gamemaker&logoColor=white"/>
+        </div>
+      </td>
+      <!-- Currently Studying -->
+      <td align="center" valign="top" width="33%">
+        <h3>📚 Currently Studying</h3>
+        <div>
+          <img src="https://img.shields.io/badge/.NET-333?style=for-the-badge&logo=dotnet&logoColor=white"/>
+          <img src="https://img.shields.io/badge/ASP.NET-333?style=for-the-badge&logo=dotnet&logoColor=white"/>
+          <br>
+          <img src="https://img.shields.io/badge/Django-333?style=for-the-badge&logo=django&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=white"/>
+          <br>
+          <img src="https://img.shields.io/badge/C%23-333?style=for-the-badge&logo=dotnet&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Unity-333?style=for-the-badge&logo=unity&logoColor=white"/>
+        </div>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Projects Showcase -->
-<h3 align="center">🚀 My Projects</h3>
-
+<br><br>
+<!-- Projects -->
+<h3 align="center">🚀 Featured Projects</h3>
 <div align="center">
-
   <table width="100%">
     <tr>
-      <td align="center" valign="top" width="100%">
-        <div style="height: 110px;">
-          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" style="height: 56px; object-fit: contain;"/>
-          <img src="https://img.shields.io/badge/cub3d-3D%20Raycaster-purple?style=for-the-badge"/>
-        </div>
-        <a href="https://github.com/oJonasRtz/cube3d" >
-          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/cub3d_demo.gif" style="width:100%; height:200px; object-fit: cover;"/>
-        </a>
-        <br>
-        Raycasting 3D engine inspired by early FPS games.
+      <td align="center" width="50%">
+      <a href="https://github.com/oJonasRtz/minishell">
+        <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/minishell_demo.gif" style="width:100%; height:160px; object-fit: cover;"/>
+      </a><br>
+      <h2 style="margin:6px 0;">Minishell</h2>
+      <img src="https://img.shields.io/badge/C-333?style=flat-square&logo=c"/>
+      <img src="https://img.shields.io/badge/AST-333?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Processes-333?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Signals-333?style=flat-square"/>
+      <br><br>
+      <table>
+        <tr>
+          <td align="left">
+            • AST-based parsing (lexer + parser)<br>
+            • Process execution with pipes and redirections<br>
+            • Signal handling and environment management<br>
+          </td>
+        </tr>
+      </table>
       </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="100%">
-        <div style="height: 110px;">
-          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png" style="height: 56px; object-fit: contain;"/>
-          <img src="https://img.shields.io/badge/Minishell-Unix%20shell-purple?style=for-the-badge" />
-        </div>
-        <a href="https://github.com/oJonasRtz/minishell">
-          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/minishell_demo.gif" style="width:100%; height:200px; object-fit: cover;"/>
-        </a>
-        <br>
-        Unix shell implementation with parsing, AST and process execution.
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="100%">
-        <div style="height: 110px;">
-          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencee.png" style="height: 56px; object-fit: contain;"/>
-          <img src="https://img.shields.io/badge/Transcendence-Web%20game%20plataform-purple?style=for-the-badge">
-        </div>
-        <a href="https://github.com/oJonasRtz/transcendence">
-          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/transcendence_demo.gif" style="width:100%; height:200px; object-fit: cover;"/>
-        </a>
-        <a href="https://transcendence42.xyz/">
-          <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white">
-        </a>
-        <br>
-        Full-stack web platform where you can play games and socialize.
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="100%">
-        <div style="height: 110px;">
-          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_irce.png" style="height: 56px; object-fit: contain;"/>
-          <img src="https://img.shields.io/badge/ft_irc-IRC%20server-purple?style=for-the-badge">
-        </div>
+      <td align="center" width="50%">
         <a href="https://github.com/fernandoruanb/FT_IRC">
-          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/irc_demo.gif" style="width:100%; height:200px; object-fit: cover;"/>
-        </a>
-        <br>
-        An IRC server designed to work with clients such as irssi.
+          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/irc_demo.gif" style="width:100%; height:160px; object-fit: cover;"/>
+        </a><br>
+        <h2 style="margin:6px 0;">Ft_Irc</h2>
+        <img src="https://img.shields.io/badge/C++-333?style=flat-square&logo=c%2B%2B"/>
+        <img src="https://img.shields.io/badge/Sockets-333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Networking-333?style=flat-square"/>
+        <br><br>
+        <table>
+          <tr>
+            <td align="left">
+              • Multi-client handling (non-blocking I/O)<br>
+              • Channels, messaging and command parsing<br>
+              • Compatible with real clients (irssi)<br>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/oJonasRtz/cube3d">
+          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/cub3d_demo.gif" style="width:100%; height:160px; object-fit: cover;"/>
+        </a><br>
+        <h2 style="margin:6px 0;">Cub3D</h2>
+        <img src="https://img.shields.io/badge/C-333?style=flat-square&logo=c"/>
+        <img src="https://img.shields.io/badge/MiniLibX-333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Rendering-333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Math-333?style=flat-square"/>
+        <br><br>
+        <table>
+          <tr>
+            <td align="left">
+              • DDA-based rendering<br>
+              • Texture mapping + perspective correction<br>
+              • Custom camera and input system<br>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/oJonasRtz/transcendence">
+          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/transcendence_demo.gif" style="width:100%; height:160px; object-fit: cover;"/>
+        </a><br>
+        <h2 style="margin:6px 0;">Transcendence</h2>
+        <img src="https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript"/>
+        <img src="https://img.shields.io/badge/Node.js-333?style=flat-square&logo=node.js"/>
+        <img src="https://img.shields.io/badge/SQLite-333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Docker-333?style=flat-square&logo=docker"/>
+        <img src="https://img.shields.io/badge/WebSockets-333?style=flat-square"/>
+        <br><br>
+        <table>
+          <tr>
+            <td align="left">
+              • Game platform with social features<br>
+              • Backend + frontend integration<br>
+              • Real-time interactions (WebSockets)<br>
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
-
 </div>
 
-<!--Profile status-->
 <br>
-  <h3 align="center">📊 Profile Status </h3>
-  <div align="center">
-    <p>
-      <img height="150" src="https://github.com/user-attachments/assets/3fe4902f-62c8-456c-8cae-58c33ff2acb1"/>
-    </p>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=oJonasRtz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oJonasRtz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-    </p>
-  </div>
-  
-<!--Contact-->
-<h3 id="contact-me" align="center">🗨️ Contact Me</h3>
+<!-- Stats -->
+<h3 align="center">📊 Stats</h3>
 <div align="center">
-  <a href = "mailto:jonasper19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&color=red&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonasalpereira/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23333?style=for-the-badge&color=blue&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://profile.intra.42.fr/users/jopereir"><img src="https://img.shields.io/badge/-Ecole%2042-333?style=for-the-badge&logo=42&logoColor=white"/></a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=oJonasRtz&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oJonasRtz&layout=compact&theme=radical" height="150"/>
 </div>
 
-<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF007F&section=footer">
+<br>
+<!-- Contact -->
+<h3 align="center">📬 Contact me</h3>
+<div align="center">
+  <a href="mailto:jonasper19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jonasalpereira/">
+    <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://profile.intra.42.fr/users/jopereir">
+    <img src="https://img.shields.io/badge/42-333?style=for-the-badge&logo=42"/>
+  </a>
+</div>
+
+<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF007F&section=footer"/>
