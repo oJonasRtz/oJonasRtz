@@ -28,6 +28,17 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge"/>
       </p>
+      <div align="center">
+        <a href="mailto:jonasper19@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail"/>
+        </a>
+        <a href="https://www.linkedin.com/in/jonasalpereira/">
+          <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin"/>
+        </a>
+        <a href="https://profile.intra.42.fr/users/jopereir">
+          <img src="https://img.shields.io/badge/42%20Profile-333?style=for-the-badge&logo=42"/>
+        </a>
+      </div>
     </td>
   </tr>
 </table>
@@ -209,19 +220,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oJonasRtz&layout=compact&theme=radical" height="150"/>
 </div>
 
-<br>
-<!-- Contact -->
-<h3 align="center">📬 Contact me</h3>
-<div align="center">
-  <a href="mailto:jonasper19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jonasalpereira/">
-    <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://profile.intra.42.fr/users/jopereir">
-    <img src="https://img.shields.io/badge/42-333?style=for-the-badge&logo=42"/>
-  </a>
-</div>
 
 <img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF007F&section=footer"/>
