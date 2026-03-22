@@ -17,7 +17,7 @@
     </td>   
     <td align="left" valign="middle" width="65%">
       <p>
-        Backend-focused software engineer with strong foundations in low-level systems and real-time applications.
+        Backend-focused software engineer with strong foundations in low-level systems and real-time applications from scratch.
       </p>
       <p>
         I build systems from scratch — shells, network servers, and rendering engines — focusing on performance, concurrency, and clean architecture.
