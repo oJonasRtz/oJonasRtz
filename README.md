@@ -175,7 +175,7 @@
     <tr>
       <td align="center">
         <h2 style="margin:8px 0;">Minishell</h2>
-        <a href="https://github.com/oJonasRtz/minishell">
+        <a href="https://github.com/fernandoruanb/minishell">
           <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/minishell/minishell_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
         </a>
         <br>
