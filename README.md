@@ -131,7 +131,7 @@
       <td align="center">
         <h2 style="margin:8px 0;">OsiCat</h2>
         <a href="https://github.com/oJonasRtz/osicat">
-          <img src="https://github.com/oJonasRtz/oJonasRtz/blob/main/assets/video/osicat_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
+          <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/osicat/osicat_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
         </a>
         <br>
         <img src="https://img.shields.io/badge/GML-333?style=flat-square&logo=gamemaker"/>
