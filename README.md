@@ -221,8 +221,8 @@
 <!-- Stats -->
 <h3 align="center">📊 Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oJonasRtz&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oJonasRtz&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oJonasRtz&theme=radical" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oJonasRtz&theme=radical" width="49%"/>
 </div>
 
 
