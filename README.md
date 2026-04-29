@@ -29,13 +29,13 @@
         <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge"/>
       </p>
       <div align="center">
-        <a href="mailto:jonasper19@gmail.com">
+        <a href="mailto:jonasper19@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail"/>
         </a>
-        <a href="https://www.linkedin.com/in/jonasalpereira/">
+        <a href="https://www.linkedin.com/in/jonasalpereira/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin"/>
         </a>
-        <a href="https://profile.intra.42.fr/users/jopereir">
+        <a href="https://profile.intra.42.fr/users/jopereir" target="_blank">
           <img src="https://img.shields.io/badge/42%20Profile-333?style=for-the-badge&logo=42"/>
         </a>
       </div>
@@ -107,7 +107,7 @@
     <tr>
       <td align="center">
         <h2 style="margin:8px 0;">Transcendence</h2>
-        <a href="https://github.com/oJonasRtz/transcendence">
+        <a href="https://github.com/oJonasRtz/transcendence" target="_blank">
           <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/transcendence/transcendence_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
         </a>
         <br>
@@ -130,7 +130,7 @@
     <tr>
       <td align="center">
         <h2 style="margin:8px 0;">OsiCat</h2>
-        <a href="https://github.com/oJonasRtz/osicat">
+        <a href="https://github.com/oJonasRtz/osicat" target="_blank">
           <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/osicat/osicat_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
         </a>
         <br>
@@ -153,7 +153,7 @@
     <tr>
       <td align="center">
         <h2 style="margin:8px 0;">Cub3D</h2>
-        <a href="https://github.com/oJonasRtz/cube3d">
+        <a href="https://github.com/oJonasRtz/cube3d"  target="_blank">
           <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/cub3d/cub3d_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
         </a>
         <br>
@@ -175,7 +175,7 @@
     <tr>
       <td align="center">
         <h2 style="margin:8px 0;">Minishell</h2>
-        <a href="https://github.com/fernandoruanb/minishell">
+        <a href="https://github.com/fernandoruanb/minishell" target="_blank">
           <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/minishell/minishell_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
         </a>
         <br>
@@ -197,7 +197,7 @@
     <tr>
       <td align="center">
         <h2 style="margin:8px 0;">FT_IRC</h2>
-        <a href="https://github.com/fernandoruanb/FT_IRC">
+        <a href="https://github.com/fernandoruanb/FT_IRC" target="_blank">
           <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/irc/irc_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
         </a>
         <br>
