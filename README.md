@@ -98,7 +98,26 @@
   </table>
 </div>
 
-<br><br>
+<br>
+
+<!-- Stats -->
+<div align="center">
+  <h3 align="center">📊 Stats</h3>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oJonasRtz&theme=radical" width="49%"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oJonasRtz&theme=radical" width="49%"/>
+        <a href="https://github.com/oJonasRtz/leetcode" target="_blank">
+          <img src="https://leetcard.jacoblin.cool/oJonasRtz?theme=radical&font=Fira%20Code&ext=heatmap" width="99%"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
 <!-- Projects -->
 <h3 align="center">🚀 Featured Projects</h3>
 <div align="center">
@@ -218,12 +237,4 @@
 </div>
 
 <br>
-<!-- Stats -->
-<h3 align="center">📊 Stats</h3>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oJonasRtz&theme=radical" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oJonasRtz&theme=radical" width="49%"/>
-</div>
-
-
 <img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF007F&section=footer"/>
