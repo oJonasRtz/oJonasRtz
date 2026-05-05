@@ -118,6 +118,79 @@
 
 <br>
 
+<h3 align="center">🧪 Currently Building</h3>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <!-- Game Engine -->
+      <td align="center" valign="top" width="33%">
+        <h2 style="margin:8px 0;">
+          <a href="https://github.com/oJonasRtz/Game_Engine">
+            Custom Game Engine
+          </a>
+        </h2>
+        <div>
+          <img src="https://img.shields.io/badge/C++-333?style=flat-square&logo=c%2B%2B"/>
+          <img src="https://img.shields.io/badge/Vulkan-333?style=flat-square&logo=vulkan"/>
+          <img src="https://img.shields.io/badge/Rendering-333?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Math-333?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Engine-333?style=flat-square"/>
+        </div>
+        <p><b>Low-level 2D Engine</b></p>
+        <ul align="left">
+          <li>custom rendering pipeline</li>
+          <li>memory & performance-focused architecture</li>
+          <li>real-time systems from scratch</li>
+        </ul>
+      </td>
+      <!-- Music Rooms -->
+      <td align="center" valign="top" width="33%">
+        <h2 style="margin:8px 0;">
+          <a href="https://github.com/oJonasRtz/sharedRoom">
+            Music Rooms
+          </a>
+        </h2>
+        <div>
+          <img src="https://img.shields.io/badge/C%23-333?style=flat-square&logo=dotnet"/>
+          <img src="https://img.shields.io/badge/ASP.NET-333?style=flat-square&logo=dotnet"/>
+          <img src="https://img.shields.io/badge/Blazor-333?style=flat-square"/>
+        </div>
+        <p><b>Real-time Shared Media Rooms</b></p>
+        <ul align="left">
+          <li>synchronized video playback</li>
+          <li>real-time rooms + chat</li>
+          <li>fullstack app with C# backend</li>
+        </ul>
+      </td>
+      <!-- Matcha -->
+      <td align="center" valign="top" width="33%">
+        <h2 style="margin:8px 0;">
+          <a href="https://github.com/oJonasRtz/matcha">
+            Matcha
+          </a>
+        </h2>
+        <div>
+          <img src="https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript"/>
+          <img src="https://img.shields.io/badge/Node.js-333?style=flat-square&logo=node.js"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-333?style=flat-square&logo=postgresql"/>
+          <img src="https://img.shields.io/badge/Docker-333?style=flat-square&logo=docker"/>
+          <img src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python"/>
+        </div>
+        <p><b>Full-Stack Dating Platform</b></p>
+        <ul align="left">
+          <li>matching & recommendation system</li>
+          <li>real-time chat (WebSockets)</li>
+          <li>auth, profiles & media handling</li>
+          <li>REST API architecture</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
 <!-- Projects -->
 <h3 align="center">🚀 Featured Projects</h3>
 <div align="center">
