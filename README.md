@@ -2,7 +2,7 @@
 
 <header align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&width=650&lines=Hi%2C+I'm+Jonas+Alberto;Data+Science+%7C+Analytics;Machine+Learning+%7C+Software+Engineering" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&width=1000&lines=Welcome%2C+I'm+Jonas;I'm+a+software+developer+with+a+strong+interest+in+understanding+how+things+work;and+turning+that+knowledge+into+practical+solutions." />
   </a>
 </header>
 
@@ -126,16 +126,6 @@
         <img src="https://img.shields.io/badge/NumPy-333?style=flat-square&logo=numpy"/>
         <img src="https://img.shields.io/badge/Machine%20Learning-333?style=flat-square"/>
         <img src="https://img.shields.io/badge/Gradient%20Descent-333?style=flat-square"/>
-        <br><br>
-        <p>
-          <b>Machine Learning from fundamentals to libraries</b>
-        </p>
-        <div align="center" style="display:inline-block; text-align:left;">
-          • ML algorithms implemented from scratch<br>
-          • Linear regression and gradient descent<br>
-          • NumPy-based vectorized implementations<br>
-          • Experiments focused on understanding the underlying mathematics
-        </div>
         <br><br>
         <a href="https://github.com/oJonasRtz/Machine-Leaning">
           <b>Explore the repository →</b>
