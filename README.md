@@ -110,8 +110,8 @@
 
 <br>
 
-<!-- Machine Learning -->
-<h3 align="center">🤖 Machine Learning</h3>
+<!-- Data science -->
+<h3 align="center">🧪 Data Science</h3>
 
 <div align="center">
   <table width="100%">
