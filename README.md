@@ -135,7 +135,7 @@
        <td align="center">
         <h2>Data Analysis Studies</h2>
         <a href="https://github.com/oJonasRtz/Data-Analysis">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=oJonasRtz&repo=Data-Analisys&theme=radical&description_lines_count=3"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=oJonasRtz&repo=Data-Analysis&theme=radical&description_lines_count=3"/>
         </a>
         <br><br>
         <img src="https://img.shields.io/badge/SQL-333?style=flat-square&logo=mysql"/>
