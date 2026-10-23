@@ -1,8 +1,8 @@
-<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF007F&section=top"/>
+<img width="1000" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF007F&section=top"/>
 
 <header align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&width=600&lines=Hi+I'm+Jonas+Alberto;Backend+%7C+Systems+Engineer;Game+Dev+%7C+Low-level+Programming" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF007F&vCenter=true&width=650&lines=Hi%2C+I'm+Jonas+Alberto;Data+Science+%7C+Analytics;Machine+Learning+%7C+Software+Engineering" />
   </a>
 </header>
 
@@ -12,18 +12,28 @@
     <td align="center" valign="middle" width="35%">
       <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/common_coree.png" width="140"/>
       <p align="center">
-        <sub>Badge designed by <a href="https://github.com/lrcouto">lrcouto</a></sub>
+        <sub>
+          Badge designed by
+          <a href="https://github.com/lrcouto">lrcouto</a>
+        </sub>
       </p>
-    </td>   
+    </td>
     <td align="left" valign="middle" width="65%">
       <p>
-        Backend-focused software engineer with strong foundations in low-level systems and real-time applications from scratch.
+        Data Science student with a background in
+        <b>Software Engineering</b> and experience in software development.
       </p>
       <p>
-        I build systems from scratch — shells, network servers, and rendering engines — focusing on performance, concurrency, and clean architecture.
+        Currently focused on <b>Data Science and Data Analytics</b>,
+        studying Python, SQL, Power BI, Statistics and Machine Learning.
+        I'm interested in transforming data into useful insights and
+        building solutions that support analysis and decision-making.
       </p>
       <p>
-        Seeking for <b>backend / fullstack web</b> and <b>game development</b> roles, focused on <b>real-time, performance and low-level systems</b>.
+        My software engineering background includes backend development,
+        APIs, integrations, databases and real-time systems, giving me
+        a strong technical foundation for understanding data from its
+        source to its processing and application.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge"/>
@@ -44,18 +54,19 @@
 </table>
 
 <br><br>
+
 <!-- Focus -->
 <div align="center">
   <table width="100%">
     <tr>
-      <!-- What I Build -->
+      <!-- Data & ML -->
       <td align="center" valign="top" width="33%">
-        <h3>🧠 What I Build</h3>
+        <h3>📊 Data & ML</h3>
         <div align="left" style="display:inline-block;">
           <b>
-          • Backend systems (APIs, servers, real-time services)<br><br>
-          • Low-level software (C/C++, memory, processes, networking)<br><br>
-          • Game systems and rendering engines
+            • Data analysis & visualization<br><br>
+            • Machine learning experiments<br><br>
+            • ML algorithms from scratch
           </b>
           <br>
         </div>
@@ -64,35 +75,72 @@
       <td align="center" valign="top" width="33%">
         <h3>⚙️ Core Stack</h3>
         <div>
+          <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=postgresql&logoColor=white"/>
+          <br>
+          <img src="https://img.shields.io/badge/Power%20BI-333?style=for-the-badge&logo=powerbi&logoColor=white"/>
+          <img src="https://img.shields.io/badge/NumPy-333?style=for-the-badge&logo=numpy&logoColor=white"/>
+          <br>
+          <img src="https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MySQL-333?style=for-the-badge&logo=mysql&logoColor=white"/>
+          <br>
           <img src="https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white"/>
           <img src="https://img.shields.io/badge/C++-333?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-          <img src="https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript&logoColor=white"/>
           <br>
-          <img src="https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=node.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/React-333?style=for-the-badge&logo=react&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Next.js-333?style=for-the-badge&logo=next.js&logoColor=white"/>
-          <br>
-          <img src="https://img.shields.io/badge/SQLite-333?style=for-the-badge&logo=sqlite&logoColor=white"/>
           <img src="https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker&logoColor=white"/>
           <img src="https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux&logoColor=white"/>
-          <br>
-          <img src="https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git&logoColor=white"/>
-          <img src="https://img.shields.io/badge/GML-333?style=for-the-badge&logo=gamemaker&logoColor=white"/>
         </div>
       </td>
       <!-- Currently Studying -->
       <td align="center" valign="top" width="33%">
         <h3>📚 Currently Studying</h3>
         <div>
-          <img src="https://img.shields.io/badge/.NET-333?style=for-the-badge&logo=dotnet&logoColor=white"/>
-          <img src="https://img.shields.io/badge/ASP.NET-333?style=for-the-badge&logo=dotnet&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Machine%20Learning-333?style=for-the-badge"/>
           <br>
-          <img src="https://img.shields.io/badge/Django-333?style=for-the-badge&logo=django&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Statistics-333?style=for-the-badge"/>
           <br>
-          <img src="https://img.shields.io/badge/C%23-333?style=for-the-badge&logo=dotnet&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Unity-333?style=for-the-badge&logo=unity&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Data%20Analytics-333?style=for-the-badge"/>
+          <br>
+          <img src="https://img.shields.io/badge/Power%20BI-333?style=for-the-badge&logo=powerbi&logoColor=white"/>
         </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Machine Learning -->
+<h3 align="center">🤖 Machine Learning</h3>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <h2>Machine Learning Studies</h2>
+        <a href="https://github.com/oJonasRtz/Machine-Leaning">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=oJonasRtz&repo=Machine-Leaning&theme=radical"/>
+        </a>
+        <br><br>
+        <img src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python"/>
+        <img src="https://img.shields.io/badge/NumPy-333?style=flat-square&logo=numpy"/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Gradient%20Descent-333?style=flat-square"/>
+        <br><br>
+        <p>
+          <b>Machine Learning from fundamentals to libraries</b>
+        </p>
+        <div align="center" style="display:inline-block; text-align:left;">
+          • ML algorithms implemented from scratch<br>
+          • Linear regression and gradient descent<br>
+          • NumPy-based vectorized implementations<br>
+          • Experiments focused on understanding the underlying mathematics
+        </div>
+        <br><br>
+        <a href="https://github.com/oJonasRtz/Machine-Leaning">
+          <b>Explore the repository →</b>
+        </a>
+        <br><br>
       </td>
     </tr>
   </table>
@@ -102,7 +150,8 @@
 
 <!-- Stats -->
 <div align="center">
-  <h3 align="center">📊 Stats</h3>
+  <h3>📊 GitHub Stats</h3>
+
   <table>
     <tr>
       <td>
@@ -115,16 +164,17 @@
 
 <br>
 
-<!-- Projects -->
-<h3 align="center">🚀 Featured Projects</h3>
+<!-- Software Engineering Projects -->
+<h3 align="center">💻 Software Engineering Projects</h3>
+
 <div align="center">
   <table width="100%">
-  <!-- Transcendence -->
+    <!-- Transcendence -->
     <tr>
       <td align="center">
         <h2 style="margin:8px 0;">Transcendence</h2>
         <a href="https://github.com/oJonasRtz/transcendence" target="_blank">
-          <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/transcendence/transcendence_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
+          <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/transcendence/transcendence_demo.gif" style="width:100%; max-height:260px; object-fit:cover;"/>
         </a>
         <br>
         <img src="https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript"/>
@@ -142,35 +192,12 @@
         <br><br>
       </td>
     </tr>
-    <!-- OsiCat -->
-    <tr>
-      <td align="center">
-        <h2 style="margin:8px 0;">OsiCat</h2>
-        <a href="https://github.com/oJonasRtz/osicat" target="_blank">
-          <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/osicat/osicat_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/GML-333?style=flat-square&logo=gamemaker"/>
-        <img src="https://img.shields.io/badge/GameMaker-333?style=flat-square"/>
-        <img src="https://img.shields.io/badge/State%20Machine-333?style=flat-square"/>
-        <img src="https://img.shields.io/badge/2D%20Game-333?style=flat-square"/>
-        <br><br>
-        <p><b>2D Game Development Project</b></p>
-        <div align="center" style="display:inline-block; text-align:left;">
-          • state machine architecture (create/execute/destroy)<br>
-          • NPC behavior + interaction system<br>
-          • chat/dialogue system (progressive rendering)<br>
-          • movement, collision & tile-based world
-        </div>
-        <br><br>
-      </td>
-    </tr>
     <!-- Cub3D -->
     <tr>
       <td align="center">
         <h2 style="margin:8px 0;">Cub3D</h2>
-        <a href="https://github.com/oJonasRtz/cube3d"  target="_blank">
-          <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/cub3d/cub3d_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
+        <a href="https://github.com/oJonasRtz/cube3d" target="_blank">
+          <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/cub3d/cub3d_demo.gif" style="width:100%; max-height:260px; object-fit:cover;"/>
         </a>
         <br>
         <img src="https://img.shields.io/badge/C-333?style=flat-square&logo=c"/>
@@ -192,7 +219,7 @@
       <td align="center">
         <h2 style="margin:8px 0;">Minishell</h2>
         <a href="https://github.com/fernandoruanb/minishell" target="_blank">
-          <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/minishell/minishell_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
+          <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/minishell/minishell_demo.gif" style="width:100%; max-height:260px; object-fit:cover;"/>
         </a>
         <br>
         <img src="https://img.shields.io/badge/C-333?style=flat-square&logo=c"/>
@@ -214,7 +241,7 @@
       <td align="center">
         <h2 style="margin:8px 0;">FT_IRC</h2>
         <a href="https://github.com/fernandoruanb/FT_IRC" target="_blank">
-          <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/irc/irc_demo.gif" style="width:100%; max-height:260px; object-fit: cover;"/>
+          <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/irc/irc_demo.gif" style="width:100%; max-height:260px; object-fit:cover;"/>
         </a>
         <br>
         <img src="https://img.shields.io/badge/C++-333?style=flat-square&logo=c%2B%2B"/>
@@ -230,8 +257,34 @@
         <br><br>
       </td>
     </tr>
+    <!-- OsiCat -->
+    <tr>
+      <td align="center">
+        <h2 style="margin:8px 0;">OsiCat</h2>
+        <a href="https://github.com/oJonasRtz/osicat" target="_blank">
+          <img src="https://github.com/oJonasRtz/assets/blob/main/gifs/osicat/osicat_demo.gif" style="width:100%; max-height:260px; object-fit:cover;"/>
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/GML-333?style=flat-square&logo=gamemaker"/>
+        <img src="https://img.shields.io/badge/GameMaker-333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/State%20Machine-333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/2D%20Game-333?style=flat-square"/>
+        <br><br>
+        <p><b>2D Game Development Project</b></p>
+        <div align="center" style="display:inline-block; text-align:left;">
+          • state machine architecture (create/execute/destroy)<br>
+          • NPC behavior + interaction system<br>
+          • chat/dialogue system (progressive rendering)<br>
+          • movement, collision & tile-based world
+        </div>
+        <br><br>
+      </td>
+    </tr>
+
   </table>
 </div>
 
 <br>
-<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF007F&section=footer"/>
+
+<img width="1000" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF007F&section=footer"/>
+```
