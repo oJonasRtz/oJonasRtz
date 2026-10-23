@@ -119,7 +119,7 @@
       <td align="center">
         <h2>Machine Learning Studies</h2>
         <a href="https://github.com/oJonasRtz/Machine-Leaning">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=oJonasRtz&repo=Machine-Leaning&theme=radical"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=oJonasRtz&repo=Machine-Leaning&theme=radical&description_lines_count=3"/>
         </a>
         <br><br>
         <img src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python"/>
