@@ -132,6 +132,22 @@
         </a>
         <br><br>
       </td>
+       <td align="center">
+        <h2>Data Analysis Studies</h2>
+        <a href="https://github.com/oJonasRtz/Data-Analysis">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=oJonasRtz&repo=Data-Analisys&theme=radical&description_lines_count=3"/>
+        </a>
+        <br><br>
+        <img src="https://img.shields.io/badge/SQL-333?style=flat-square&logo=mysql"/>
+        <img src="https://img.shields.io/badge/MySQL-333?style=flat-square&logo=mysql"/>
+        <img src="https://img.shields.io/badge/Power%20BI-333?style=flat-square&logo=powerbi"/>
+        <img src="https://img.shields.io/badge/EDA-333?style=flat-square"/>
+        <br><br>
+        <a href="https://github.com/oJonasRtz/Data-Analysis">
+          <b>Explore the repository →</b>
+        </a>
+        <br><br>
+      </td>
     </tr>
   </table>
 </div>
