@@ -153,6 +153,7 @@ Software Engineering
 
 <table align="center" width="100%">
 <tr>
+
 <td align="center" valign="top" width="50%">
 <h3>🌐 Transcendence</h3>
 <a href="https://github.com/oJonasRtz/transcendence"><img src="https://github.com/oJonasRtz/assets/blob/main/gifs/transcendence/transcendence_demo.gif" width="100%"/></a>
@@ -168,6 +169,8 @@ Software Engineering
 Real-time web platform<br>
 Backend + frontend integration<br>
 WebSocket-based interactions
+<br><br>
+<a href="https://github.com/oJonasRtz/transcendence"><b>Explore the repository →</b></a>
 <br><br>
 </td>
 
@@ -186,10 +189,14 @@ Raycasting engine (DDA)<br>
 Texture mapping + perspective<br>
 Custom camera & input system
 <br><br>
+<a href="https://github.com/oJonasRtz/cube3d"><b>Explore the repository →</b></a>
+<br><br>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" valign="top" width="50%">
 <h3>🐚 Minishell</h3>
 <a href="https://github.com/fernandoruanb/minishell"><img src="https://github.com/oJonasRtz/assets/blob/main/gifs/minishell/minishell_demo.gif" width="100%"/></a>
@@ -204,6 +211,8 @@ Custom camera & input system
 AST parser (lexer + parsing)<br>
 Fork/exec + pipes + redirections<br>
 Signal handling (SIGINT, SIGQUIT)
+<br><br>
+<a href="https://github.com/fernandoruanb/minishell"><b>Explore the repository →</b></a>
 <br><br>
 </td>
 
@@ -221,10 +230,14 @@ TCP server (IRC protocol)<br>
 Non-blocking I/O (multi-client)<br>
 Channels, messaging & command parsing
 <br><br>
+<a href="https://github.com/fernandoruanb/FT_IRC"><b>Explore the repository →</b></a>
+<br><br>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" valign="top" width="50%">
 <h3>🐱 OsiCat</h3>
 <a href="https://github.com/oJonasRtz/osicat"><img src="https://github.com/oJonasRtz/assets/blob/main/gifs/osicat/osicat_demo.gif" width="100%"/></a>
@@ -241,10 +254,12 @@ NPC behavior + interaction system<br>
 Chat/dialogue system<br>
 Movement, collision & tile-based world
 <br><br>
+<a href="https://github.com/oJonasRtz/osicat"><b>Explore the repository →</b></a>
+<br><br>
 </td>
 
 <td align="center" valign="top" width="50%">
-<h3>🖥️ Bad Apple!!</h3>
+<h3>🍎 Bad Apple!!</h3>
 <a href="https://github.com/oJonasRtz/BadApple"><img src="https://github.com/oJonasRtz/assets/blob/main/gifs/badapple/BadApple.gif" width="100%"/></a>
 <br><br>
 <img src="https://img.shields.io/badge/C++-6C3FC5?style=flat-square&logo=c%2B%2B&logoColor=white"/>
@@ -257,7 +272,10 @@ MP4 → ASCII frames<br>
 Real-time terminal rendering<br>
 Character-based image conversion
 <br><br>
+<a href="https://github.com/oJonasRtz/BadApple"><b>Explore the repository →</b></a>
+<br><br>
 </td>
+
 </tr>
 </table>
 
