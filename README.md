@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Jonas%20Pereira&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Jonnas%20Alberto&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40"/>
 
 <p align="center"><b>From low-level systems to data-driven solutions</b><br>Software Engineering @ 42 São Paulo → Data Science & Analytics</p>
 
