@@ -6,39 +6,68 @@
 
 <!-- About -->
 
+<h2 align="center">👋 About Me</h2>
+
 <table align="center" width="100%">
 <tr>
-<td align="center" valign="middle" width="32%">
-<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/common_coree.png" width="140"/>
+<td align="center" valign="middle" width="30%">
+<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/common_coree.png" width="145"/>
+<br><br>
+<h3>42 São Paulo</h3>
+<b>Common Core</b>
 <br>
+Software Engineering
+<br><br>
+<img src="https://img.shields.io/badge/Data%20Science-6C3FC5?style=flat-square"/>
+<br>
+<img src="https://img.shields.io/badge/Data%20Analytics-8957E5?style=flat-square"/>
+<br>
+<img src="https://img.shields.io/badge/Machine%20Learning-A371F7?style=flat-square"/>
+<br><br>
 <sub>Badge designed by <a href="https://github.com/lrcouto">lrcouto</a></sub>
 </td>
-<td align="left" valign="middle" width="68%">
-<p>Data Science student with a background in <b>Software Engineering</b> and experience in software development.</p>
-<p>Currently focused on <b>Data Science and Data Analytics</b>, studying Python, SQL, Power BI, Statistics and Machine Learning. I'm interested in transforming data into useful insights and building solutions that support analysis and decision-making.</p>
-<p>My software engineering background includes backend development, APIs, integrations, databases and real-time systems, giving me a strong technical foundation for understanding data from its source to its processing and application.</p>
-<p align="center"><img src="https://img.shields.io/badge/Open%20to%20Work-6C3FC5?style=for-the-badge"/></p>
-<p align="center"><a href="mailto:jonasper19@gmail.com"><img src="https://img.shields.io/badge/Gmail-6C3FC5?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jonasalpereira/"><img src="https://img.shields.io/badge/LinkedIn-6C3FC5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://profile.intra.42.fr/users/jopereir"><img src="https://img.shields.io/badge/42%20Profile-6C3FC5?style=for-the-badge&logo=42&logoColor=white"/></a></p>
+<td align="left" valign="middle" width="70%">
+<h3>Building on engineering. Moving toward data.</h3>
+<p>I'm a <b>Data Science student</b> with a strong foundation in Software Engineering, currently building my portfolio around <b>Data Science and Data Analytics</b>.</p>
+<p>My studies focus on <b>Python, SQL, Power BI, Statistics and Machine Learning</b>. I enjoy both sides of the field: using data to answer practical questions and going deeper into the algorithms and mathematics that make those solutions possible.</p>
+<p>Before focusing on data, I worked with <b>C/C++, backend development, APIs, databases, networking and real-time systems</b>. That background shapes how I approach data today: understanding where it comes from, how it moves through a system and how to turn it into something useful.</p>
+<p><b>Currently exploring:</b> data analysis, visualization, ML algorithms from scratch and stronger statistical foundations.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-6C3FC5?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="mailto:jonasper19@gmail.com"><img src="https://img.shields.io/badge/Gmail-6C3FC5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jonasalpereira/"><img src="https://img.shields.io/badge/LinkedIn-6C3FC5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://profile.intra.42.fr/users/jopereir"><img src="https://img.shields.io/badge/42%20Profile-6C3FC5?style=for-the-badge&logo=42&logoColor=white"/></a>
+</p>
 </td>
 </tr>
 </table>
 
 <br>
 
+<br>
 <!-- Focus -->
 
 <h2 align="center">🎯 Focus & Stack</h2>
 
-<table align="center" width="100%">
+<table width="100%" style="width: 100%; min-width: 100%;" align="center">
 <tr>
-<td align="center" valign="top" width="33%">
+
+<td align="center" valign="top" width="33.33%" style="width: 33.33%;">
+
 <h3>📊 Data & ML</h3>
 <p>Data analysis & visualization</p>
 <p>Machine Learning experiments</p>
 <p>ML algorithms from scratch</p>
+
 </td>
-<td align="center" valign="top" width="34%">
+
+<td align="center" valign="top" width="33.33%" style="width: 33.33%;">
+
 <h3>⚙️ Core Stack</h3>
+
 <img src="https://img.shields.io/badge/Python-6C3FC5?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-6C3FC5?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <br>
@@ -53,9 +82,13 @@
 <br>
 <img src="https://img.shields.io/badge/Docker-8957E5?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-8957E5?style=for-the-badge&logo=linux&logoColor=white"/>
+
 </td>
-<td align="center" valign="top" width="33%">
+
+<td align="center" valign="top" width="33.33%" style="width: 33.33%;">
+
 <h3>📚 Currently Studying</h3>
+
 <img src="https://img.shields.io/badge/Machine%20Learning-6C3FC5?style=for-the-badge"/>
 <br>
 <img src="https://img.shields.io/badge/Statistics-8957E5?style=for-the-badge"/>
@@ -63,7 +96,9 @@
 <img src="https://img.shields.io/badge/Data%20Analytics-A371F7?style=for-the-badge"/>
 <br>
 <img src="https://img.shields.io/badge/Power%20BI-6C3FC5?style=for-the-badge&logo=powerbi&logoColor=white"/>
+
 </td>
+
 </tr>
 </table>
 
