@@ -170,6 +170,7 @@ Backend + frontend integration<br>
 WebSocket-based interactions
 <br><br>
 </td>
+
 <td align="center" valign="top" width="50%">
 <h3>🎮 Cub3D</h3>
 <a href="https://github.com/oJonasRtz/cube3d"><img src="https://github.com/oJonasRtz/assets/blob/main/gifs/cub3d/cub3d_demo.gif" width="100%"/></a>
@@ -187,6 +188,7 @@ Custom camera & input system
 <br><br>
 </td>
 </tr>
+
 <tr>
 <td align="center" valign="top" width="50%">
 <h3>🐚 Minishell</h3>
@@ -204,6 +206,7 @@ Fork/exec + pipes + redirections<br>
 Signal handling (SIGINT, SIGQUIT)
 <br><br>
 </td>
+
 <td align="center" valign="top" width="50%">
 <h3>💬 FT_IRC</h3>
 <a href="https://github.com/fernandoruanb/FT_IRC"><img src="https://github.com/oJonasRtz/assets/blob/main/gifs/irc/irc_demo.gif" width="100%"/></a>
@@ -220,6 +223,7 @@ Channels, messaging & command parsing
 <br><br>
 </td>
 </tr>
+
 <tr>
 <td align="center" valign="top" width="50%">
 <h3>🐱 OsiCat</h3>
@@ -238,10 +242,21 @@ Chat/dialogue system<br>
 Movement, collision & tile-based world
 <br><br>
 </td>
-<td align="center" valign="middle" width="50%">
-<h3>More projects coming...</h3>
-<p>Continuing to build projects across<br><b>Data Science & Software Engineering.</b></p>
-<img src="https://img.shields.io/badge/Currently-Building-6C3FC5?style=for-the-badge"/>
+
+<td align="center" valign="top" width="50%">
+<h3>🖥️ Bad Apple!!</h3>
+<a href="https://github.com/oJonasRtz/BadApple"><img src="https://github.com/oJonasRtz/assets/blob/main/gifs/badapple/BadApple.gif" width="100%"/></a>
+<br><br>
+<img src="https://img.shields.io/badge/C++-6C3FC5?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terminal-8957E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/ASCII-Art-A371F7?style=flat-square"/>
+<br><br>
+<b>Terminal Video Renderer</b>
+<br><br>
+MP4 → ASCII frames<br>
+Real-time terminal rendering<br>
+Character-based image conversion
+<br><br>
 </td>
 </tr>
 </table>
