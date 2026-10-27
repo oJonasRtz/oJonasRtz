@@ -114,7 +114,7 @@ Software Engineering
 <tr>
 <td align="center" valign="top" width="50%">
 <h3>🤖 Machine Learning Studies</h3>
-<a href="https://github.com/oJonasRtz/Machine-Leaning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=oJonasRtz&repo=Machine-Leaning&theme=midnight-purple&description_lines_count=3"/></a>
+<a href="https://github.com/oJonasRtz/Machine-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=oJonasRtz&repo=Machine-Learning&theme=midnight-purple&description_lines_count=3"/></a>
 <br><br>
 <img src="https://img.shields.io/badge/Python-6C3FC5?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-8957E5?style=flat-square&logo=numpy&logoColor=white"/>
